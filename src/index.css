@@ -1,0 +1,14 @@
+
+body {
+  background: linear-gradient(to right,  
+  rgb(9, 65, 233), rgb(111, 111, 188), rgb(138, 84, 138), rgb(218, 2, 218), rgb(215, 72, 72), darkorange, orange, yellow, rgb(161, 161, 3));
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  min-height: 100vh;
+}
+
+
+
